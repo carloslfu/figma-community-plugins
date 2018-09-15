@@ -1,0 +1,29 @@
+[
+  {
+    "name": "PDF Export for Figma",
+    "chromeStoreId": "ajfpcafbiebdojjiajchpegcnfmlnjln",
+    "url": "https://chrome.google.com/webstore/detail/ajfpcafbiebdojjiajchpegcnfmlnjln",
+    "author": {
+      "name": "Jackie Chui",
+      "email": "jachui@microsoft.com"
+    }
+  },
+  {
+    "name": "Find and Replace for Figma",
+    "chromeStoreId": "jbfikkghcijglpnpiikkbmgopcbakegi",
+    "url": "https://chrome.google.com/webstore/detail/jbfikkghcijglpnpiikkbmgopcbakegi",
+    "author": {
+      "name": "Jackie Chui",
+      "email": "jachui@microsoft.com"
+    }
+  },
+  {
+    "name": "Layer Distributor for Figma",
+    "chromeStoreId": "akknjcfaijgpheblkfachndcfmiilnhk",
+    "url": "https://chrome.google.com/webstore/detail/akknjcfaijgpheblkfachndcfmiilnhk",
+    "author": {
+      "name": "Jackie Chui",
+      "email": "jachui@microsoft.com"
+    }
+  }
+]
